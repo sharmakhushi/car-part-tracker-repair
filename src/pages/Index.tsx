@@ -117,7 +117,7 @@ const Index = () => {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center space-x-3">
               <Car className="h-8 w-8 text-blue-600" />
-              <h1 className="text-2xl font-bold text-gray-900">Car Repair Tracker</h1>
+              <h1 className="text-2xl font-bold text-gray-900">Workshop Parts Monitor</h1> // Name changed by Ankit
             </div>
             <Button onClick={() => setShowAddForm(true)} className="bg-blue-600 hover:bg-blue-700">
               <Plus className="h-4 w-4 mr-2" />
